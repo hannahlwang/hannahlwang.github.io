@@ -4,7 +4,7 @@
 [3DS Max](/formats/NF00100)  
 [64-bit Portable Executable file](/formats/NF00536)  
 [A86 assembler source code file](/formats/formats/NF00769)  
-[Adaptive Multi Rate Audio (/formatsAMR)](/NF00102)  
+[Adaptive Multi Rate Audio](/NF00102)  
 [Adobe AIR file](/formats/NF00705)  
 [Adobe Director](/formats/NF00678)  
 [Adobe Director cast file](/formats/NF00688)  
